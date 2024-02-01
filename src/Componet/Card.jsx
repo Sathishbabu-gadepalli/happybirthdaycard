@@ -15,7 +15,7 @@ export default () => (
         <p>
           Happy birthday!! I hope your day is filled with lots of love and
           laughter! May all of your birthday wishes come true and this hole year lot of sweet memories filled with your dearest persons
-         and be com and be happy any way happy birthday HR Mamta
+         and be calm and be happy anyway happy birthday HR Mamta
                   </p>
         <p className="name">Sathya Deva</p>
       </div>
